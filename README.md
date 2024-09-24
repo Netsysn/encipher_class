@@ -1,2 +1,2 @@
 # encipher_class
-The invention relates to a cryptographic program based on binary implementation of the tensionic gold
+A very neural encryption program based on a binary implementation
